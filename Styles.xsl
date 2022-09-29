@@ -3,7 +3,7 @@
 <xsl:template match="/">
 <html>
 <body>
-<h1> Index of ./Students.xml</h1>
+<h1> Index of ./Students</h1>
 <br /><br />
 <table  align="center">
 <style>
